@@ -1,0 +1,7 @@
+C:\Users\Jeny\source\repos\Pokodigon\bin\Debug\Pokodigon.exe.config
+C:\Users\Jeny\source\repos\Pokodigon\bin\Debug\Pokodigon.exe
+C:\Users\Jeny\source\repos\Pokodigon\bin\Debug\Pokodigon.pdb
+C:\Users\Jeny\source\repos\Pokodigon\obj\Debug\Pokodigon.csprojAssemblyReference.cache
+C:\Users\Jeny\source\repos\Pokodigon\obj\Debug\Pokodigon.csproj.CoreCompileInputs.cache
+C:\Users\Jeny\source\repos\Pokodigon\obj\Debug\Pokodigon.exe
+C:\Users\Jeny\source\repos\Pokodigon\obj\Debug\Pokodigon.pdb
